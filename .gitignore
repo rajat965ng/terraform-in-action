@@ -1,0 +1,4 @@
+**/*/provider*
+.idea/*
+**/*/.terraform*
+**/*/rootkey.csv
