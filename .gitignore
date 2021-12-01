@@ -2,3 +2,5 @@
 .idea/*
 **/*/.terraform*
 **/*/rootkey.csv
+**/*/terraform.tfstate
+**/*/terraform.tfstate.backup
