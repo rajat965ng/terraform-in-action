@@ -1,4 +1,4 @@
-module github.com/rajat965ng/pet-provider
+module github.com/rajat965ng/terraformInAction/ch11_CustomProvider/pet-provider
 
 go 1.17
 
